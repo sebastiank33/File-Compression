@@ -1,11 +1,3 @@
-/*--------------------------------------------
-   Program 6: File Compression
-   For this project, I will build a file compression algorithm that uses binary trees and priority queues. The program is built on the Huffman algorithm to allow the user to compress or decompress a file.
-   Course: CS 251, Fall 2022
-   System: Mac/Windows using VS Code
-   Author: Sebastian Kowalczyk
----------------------------------------------*/
-
 #pragma once
 
 typedef hashmap hashmapF;
